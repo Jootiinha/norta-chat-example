@@ -70,7 +70,7 @@
     "eslint-plugin-storybook": "^0.6.15",
     "eslint-plugin-vue": "^9.18.1",
     "husky": "^8.0.1",
-    "lint-staged": "^15.1.0",
+    "lint-staged": "^15.2.10",
     "postcss": "^8.4.21",
     "prettier": "^3.1.0",
     "storybook": "^7.4.6",
